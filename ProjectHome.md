@@ -1,0 +1,1 @@
+This tool automates the coloring of KEGG pathways using http://www.genome.jp/kegg/tool/color_pathway.html.  It requires the GIMP and the installation of custom python GIMP scripts
